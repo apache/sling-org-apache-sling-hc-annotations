@@ -31,7 +31,7 @@
     <groupId>org.apache.sling</groupId>
     <artifactId>org.apache.sling.hc.annotations</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.6</version>
 
     <name>Apache Sling Health Check Annotations</name>
     <inceptionYear>2013</inceptionYear>
@@ -44,7 +44,8 @@
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hc-annotations.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-hc-annotations.git</developerConnection>
         <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-hc-annotations.git</url>
-    </scm>
+      <tag>org.apache.sling.hc.annotations-1.0.6</tag>
+  </scm>
 
     <dependencies>
         <dependency>
